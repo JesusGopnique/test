@@ -2,5 +2,6 @@
   name:"Paul",
   surname:"Plaksa",
   email:"rger@bk.com",
-  pass: 123456
+  pass: 123456,
+  salary:415
 }
