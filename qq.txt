@@ -1,7 +1,7 @@
 Hello.
 My name is Paul.
 I'm 23 years.
-I am looking for a position as Junior QA Engineer.
+I am looking for a position as a Junior QA Engineer.
 I have over 3 months experience in Software Testing.
 
 
